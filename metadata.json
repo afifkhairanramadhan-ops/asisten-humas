@@ -1,0 +1,6 @@
+{
+  "name": "Asisten Publikasi MTsN 1 Padang Pariaman",
+  "description": "Aplikasi publikasi dan laporan kinerja berbasis AI untuk MTsN 1 Padang Pariaman dengan panduan penulisan akurat, berbasis data, bebas klaim berlebihan, dan perlindungan privasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
